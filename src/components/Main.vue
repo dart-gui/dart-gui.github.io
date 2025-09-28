@@ -70,18 +70,18 @@
       <div class="author-list">
         <span class="author">
           <el-link href="https://pengxiang-li.github.io">Pengxiang Li</el-link>
-          <span class="ind">1,2 &#9733;</span>,
+          <span class="ind">1,2&#9733;</span>,
         <span class="author">
           <el-link href="">Zechen Hu</el-link>
-          <span class="ind">2,3 &#9733;</span>,
+          <span class="ind">3&#9733;</span>,
         </span>
         <span class="author">
           <el-link href="">Zirui Shang</el-link>
-          <span class="ind">2 &#9733;</span>,
+          <span class="ind">1,2&#9733;</span>,
         </span>
         <span class="author">
           <el-link href="https://scholar.google.com/citations?user=xr7kNGEAAAAJ&hl">Jingrong Wu</el-link>
-          <span class="ind">2,4 &#9733;</span>,
+          <span class="ind">3&#9733;</span>,
         </span>
         </span>
         <span class="author">
@@ -90,12 +90,12 @@
         </span>
         <span class="author">
           <el-link href="">Hui Liu</el-link>
-          <span class="ind">2</span>,
+          <span class="ind">3</span>,
         </span>
         <br>
         <span class="author">
           <el-link href="https://zhigao2017.github.io/">Zhi Gao</el-link>
-          <span class="ind">2,3 &#9733;</span>,
+          <span class="ind">1,2&#9993;</span>,
         </span>
         <span class="author">
           <el-link href="https://scholar.google.com/citations?user=DSN0fGIAAAAJ&hl=en">Chenrui Shi</el-link>
@@ -103,29 +103,29 @@
         </span>
         <span class="author">
           <el-link href="https://bofei5675.github.io/">Bofei Zhang</el-link>
-          <span class="ind">2 </span>,
+          <span class="ind">2</span>,
         </span>
         <span class="author">
           <el-link href="">Zihao Zhang</el-link>
-          <span class="ind">2 </span>,
+          <span class="ind">3</span>,
         </span>
         <span class="author">
           <el-link href="">Xiaochuan Shi</el-link>
-          <span class="ind">2 </span>,
+          <span class="ind">3</span>,
         </span>
         <span class="author">
           <el-link href="">Zedong Yu</el-link>
-          <span class="ind">2 </span>,
+          <span class="ind">2,4</span>,
         </span>
         <br>
         <span class="author">
           <el-link href="https://wu-yuwei-bit.github.io/">Yuwei Wu</el-link>
-          <span class="ind">&#9993;1,5</span>,
+          <span class="ind">1,5&#9993;</span>,
         </span>
 
         <span class="author">
           <el-link href="https://wuxinxiao.github.io/">Xinxiao Wu</el-link>
-          <span class="ind">&#9993;1,5</span>,
+          <span class="ind">1,5</span>,
         </span>
         
 
@@ -135,15 +135,15 @@
         </span>
         <span class="author">
           <el-link href="">Liuyu Xiang</el-link>
-          <span class="ind">&#9993;1,5</span>,
+          <span class="ind">4</span>,
         </span>
         <span class="author">
           <el-link href="">Zhaofeng He</el-link>
-          <span class="ind">&#9993;1,5</span>,
+          <span class="ind">4</span>,
         </span>
         <span class="author">
           <el-link href="https://liqing.io/">Qing Li</el-link>
-          <span class="ind">&#9993;2</span>
+          <span class="ind">2&#9993;</span>
         </span>
       </div>
       <div class="author-list">
@@ -158,19 +158,15 @@
         <br>
         <span class="org">
           <span class="ind">3</span>
-          Peking University 
+          DataCanvas 
         </span>
         <span class="org">
           <span class="ind">4</span>
-          Harbin Institute of Technology
+          Beijing University of Posts and Telecommunications
         </span>
         <span class="org">
           <span class="ind">5</span>
           Shenzhen MSU-BIT University
-        </span>
-        <span class="org">
-          <span class="ind">6</span>
-          Tsinghua University
         </span>
       </div>
 
